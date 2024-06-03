@@ -1,4 +1,0 @@
-SET a TO 5
-SET b TO 10
-CALCULATE sum AS a + b
-PRINT sum
